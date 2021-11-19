@@ -20,7 +20,7 @@
     "test": "echo 1"
   },
   "dependencies": {
-    "@stoplight/spectral": "^6.1.0",
+    "@stoplight/spectral": "^5.8.0",
     "jsonc-parser": "^3.0.0",
     "minimatch": "^3.0.4",
     "request-light": "^0.5.5",
