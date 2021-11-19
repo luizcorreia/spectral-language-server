@@ -1,6 +1,6 @@
 {
   "name": "spectral-language-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "author": "Luiz Correia <luiz@luizcorreia.eti.br>",
   "license": "MIT",
