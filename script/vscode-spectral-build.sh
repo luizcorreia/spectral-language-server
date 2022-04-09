@@ -18,7 +18,7 @@ git pull --rebase
 
 # npm install
 cd $DIR/../tmp/vscode-spectral
-yarn add gulp gulp-cli
+yarn config set ignore-engines true
 yarn
 yarn compile
 
