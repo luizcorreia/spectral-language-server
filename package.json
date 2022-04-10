@@ -17,7 +17,8 @@
   "scripts": {
     "clean": "rimraf tmp/*",
     "release": "np --no-yarn",
-    "test": "echo 1"
+    "test": "echo 1",
+    "postinstall": "./script/vscode-spectral-build.sh"
   },
   "dependencies": {
     "@stoplight/spectral": "^5.8.0",
