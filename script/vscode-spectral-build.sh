@@ -8,7 +8,7 @@ mkdir -p "$DIR"/../dist
 
 # clone
 cd "$DIR"/../tmp
-git clone --depth=1 git@github.com:stoplightio/vscode-spectral.git -b v1.1.0 vscode-spectral
+git clone --depth=1 https://github.com/stoplightio/vscode-spectral.git -b v1.1.0 vscode-spectral
 
 # pull
 cd "$DIR"/../tmp/vscode-spectral
